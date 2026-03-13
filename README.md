@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Engineer | React · TypeScript · Node.js · Python · AWS | Gen AI & Agentic UI</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ayushanayak/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayushanayak2000@gmail.com">
@@ -18,16 +18,16 @@
 
 ### 👋 About Me
 
-- 🏢 Associate SDE at **Publicis Sapient**, Bengaluru
-- 🤖 Built **9 Agentic UI interfaces** on a Gen AI-powered MarTech platform
-- ☁️ **AWS Certified** Cloud Practitioner
-- 🚀 Passionate about **Full Stack · AI · DevOps**
-- 📫 Reach me at **ayushanayak2000@gmail.com**
-- ⚡ Fun fact: I reduced production issue resolution time by **30%** using distributed tracing!
+- Associate SDE at **Publicis Sapient**, Bengaluru
+- Built **9 Agentic UI interfaces** on a Gen AI-powered MarTech platform
+- **AWS Certified** Cloud Practitioner
+- Passionate about **Full Stack · AI · DevOps**
+- Reach me at **ayushanayak2000@gmail.com**
+- Fun fact: I reduced production issue resolution time by **30%** using distributed tracing!
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 
@@ -61,11 +61,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayusha27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusha27&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ayusha27&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayusha27&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ayushanayak/">LinkedIn</a> •
   <a href="mailto:ayushanayak2000@gmail.com">Email</a>
 </p>
   
