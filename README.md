@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Ayusha Nayak</h1>
 <h3 align="center">Full Stack Engineer | React · TypeScript · Node.js · Python · AWS | Gen AI & Agentic UI</h3>
@@ -11,12 +9,12 @@
   <a href="mailto:ayushanayak2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ayusha27&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👋 About Me
+### About Me
 
 - Associate SDE at **Publicis Sapient**, Bengaluru
 - Built **9 Agentic UI interfaces** on a Gen AI-powered MarTech platform
@@ -70,7 +68,7 @@
 
 ---
 
-### 🔥 Streak Stats
+### Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ayusha27&theme=tokyonight&hide_border=true" />
@@ -78,20 +76,12 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayusha27&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📌 Featured Projects
+### Featured Projects
 > Pin your best repos from your GitHub profile page → "Customize your pins"
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ayushanayak/">LinkedIn</a> •
